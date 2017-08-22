@@ -1,6 +1,6 @@
 # 容器 配置
 server:
-  port: 443
+  port:
   ssl:
     key-store: classpath:musclegeeker.jks
     key-password: 214234332560773
